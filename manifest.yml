@@ -1,0 +1,10 @@
+applications:
+- name: question2answer
+  # buildpack: https://github.com/cloudfoundry/php-buildpack
+  instances: 1
+  memory: 128M
+  disk: 256M
+  # services:
+  # mysql
+  # - question2answer-db
+  stack: cflinuxfs2

@@ -1,5 +1,6 @@
-# Ignore config file in development
-qa-config.php
+# ignored upstream but saved here
+# to make a nice CF deployment demo 
+# qa-config.php
 
 # Other files
 .DS_Store
